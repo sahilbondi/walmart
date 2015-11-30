@@ -1,6 +1,7 @@
 				Read Me
 
 Test Problem:
+//Software I used : selenium-server-standalone-2.48.2.jar
 
 1. Automate an end-to-end user e-commerce transaction flow using any open source tool for www.walmart.com with an existing customer on Chrome or Safari browser.
 
